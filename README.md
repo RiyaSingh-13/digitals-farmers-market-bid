@@ -23,4 +23,4 @@ Environment Variables: Create a .env file in the root and add your MONGO_URI.
 Run the Application: npm run dev (from root)
 
 
-deployed Link : https://github.com/RiyaSingh-13/digitals-farmers-market-bid
+deployed Link : https://digital-farming-market-with-bidding.vercel.app
