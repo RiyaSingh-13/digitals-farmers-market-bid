@@ -16,7 +16,7 @@ Database: MongoDB Atlas (with ACID Transactions)
 API Integration: OpenWeather API for localized farm conditions
 📦 Installation & Setup
 
-Clone the repository: git clone https://github.com/RahulSharma4532/Digital-Farming-Market-with-Bidding-System.git
+
 Install Backend Dependencies: cd backend && npm install
 Install Frontend Dependencies: cd frontend && npm install
 Environment Variables: Create a .env file in the root and add your MONGO_URI.
